@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "432BFAC8-C459-4E0D-BCA6-4B7EA5BEBFCD"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE2A9A93-998E-4462-9239-2977850D53A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PushNotification/NotificationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "NotificationService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EE2A9A93-998E-4462-9239-2977850D53A5 - bf24af7a3087881f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushNotification.NotificationService.contentHandler.getter : Swift.Optional&lt;(__C.UNNotificationContent) -&gt; ()&gt;"
+                  moduleName = "PushNotification"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/codexprt/Documents/NidhiDemo/PushNotification/PushNotification/NotificationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "EE2A9A93-998E-4462-9239-2977850D53A5 - 92142af4018606b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushNotification.NotificationService.contentHandler.setter : Swift.Optional&lt;(__C.UNNotificationContent) -&gt; ()&gt;"
+                  moduleName = "PushNotification"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/codexprt/Documents/NidhiDemo/PushNotification/PushNotification/NotificationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "EE2A9A93-998E-4462-9239-2977850D53A5 - 9953fc2ea4f6c0a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushNotification.NotificationService.contentHandler.modify : Swift.Optional&lt;(__C.UNNotificationContent) -&gt; ()&gt;"
+                  moduleName = "PushNotification"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/codexprt/Documents/NidhiDemo/PushNotification/PushNotification/NotificationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "EE2A9A93-998E-4462-9239-2977850D53A5 - cfb999423ca79a1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushNotification.NotificationService.contentHandler.modify : Swift.Optional&lt;(__C.UNNotificationContent) -&gt; ()&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PushNotification"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/codexprt/Documents/NidhiDemo/PushNotification/PushNotification/NotificationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EE2A9A93-998E-4462-9239-2977850D53A5 - e40a0c617a18fa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PushNotification.NotificationService.init() -&gt; PushNotification.NotificationService"
+                  moduleName = "PushNotification"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/codexprt/Documents/NidhiDemo/PushNotification/PushNotification/NotificationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5191CC96-77F2-49CC-94F3-4B59A5D46B0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PushNotification/NotificationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "serviceExtensionTimeWillExpire()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9FD6BDD-F6D8-40A9-9AC8-40555B58C3E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PushNotification/ServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "PostRequest(url:param:handler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

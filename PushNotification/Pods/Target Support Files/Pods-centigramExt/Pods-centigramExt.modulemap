@@ -1,0 +1,6 @@
+framework module Pods_centigramExt {
+  umbrella header "Pods-centigramExt-umbrella.h"
+
+  export *
+  module * { export * }
+}
