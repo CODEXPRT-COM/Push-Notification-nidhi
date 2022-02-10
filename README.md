@@ -15,12 +15,12 @@ After you have successfully created the iOS application you need to create a not
 
 3. Gives the name of the Extension service and click the finish button.
 
-![alt text](file:///Users/codexprt/Desktop/1-siknqf.png)
+![alt text](https://raw.githubusercontent.com/NidhiLathiya/Push-Notification/main/1-siknqf.png)
 
 After you create iOS application and Notification service extension, you will see the two target in two new files for notification service. Here are two new files.
 target window in add capabilities by clicking "+" button and add group.
 
-![alt text](file:///Users/codexprt/Desktop/1-siknqf.png)
+![alt text](https://raw.githubusercontent.com/NidhiLathiya/Push-Notification/main/Screenshot%202022-02-10%20at%202.55.43%20PM.png)
 
 after add group again click on add capabilities add push notification and background modes in select "remote notification"
 
