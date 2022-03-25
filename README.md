@@ -119,7 +119,10 @@ This payload is used software of knuff.
 	          }
     }
     
-    ![alt text](./1-siknqf.png)
+
+then check in Device.
+
+![alt text](./1-siknqf.png)
     
 
 
