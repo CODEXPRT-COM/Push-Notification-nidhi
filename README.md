@@ -122,7 +122,7 @@ This payload is used software of knuff.
 
 then check in Device.
 
-![alt text](./1-siknqf.png)
+![alt text](./knuff.png)
     
 
 
