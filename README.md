@@ -106,6 +106,7 @@ After complete the setup, we need to get permission for the push notification se
         
   A very important step for sending media attachment is the mutable-content key in the push payload from the server. So let’s take a look at this example payload:
 
+This payload is used software of knuff.
 
     {
 	    "aps":{
@@ -119,5 +120,6 @@ After complete the setup, we need to get permission for the push notification se
     }
 
 
-    
+    ![36b610e0-c048-11e5-9be6-ee9e996036a2](https://user-images.githubusercontent.com/97012137/160099923-bb088b02-01ef-4a31-ada4-64876d80f253.png)
+
     
